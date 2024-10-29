@@ -1,0 +1,27 @@
+# Научиться учиться
+### *Учебный проект от [Яндекс.Практикум](https://practicum.yandex.ru/frontend-developer/)*
+
+## Описание проекта
+Данный учебный проект представляет типовой одностраничный сайт, который посвящен современным и эффективным подходам к обучению.
+
+Проект создан в рамках прохождения 1-2 спринта курса Фронтенд-разработчик.
+
+## Функционал:
+- Использование CSS-анимации;
+- Встроенные видео (YouTube IFrame Player API).
+
+## Стек технологий:
+- HTML5;
+- CSS3:
+  - Flexbox;
+  - Positioning;
+  - Adaptive UI;
+  - Media Queries;
+- Методология БЭМ;
+- Файловая структура Nested БЭМ;
+- Работа с медиафайлами (HTML-video, iframe);
+- Вёрстка по макету в Figma.
+
+## Брифы Проектной работы:
+- [Бриф 1](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf);
+- [Бриф 2](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf);
